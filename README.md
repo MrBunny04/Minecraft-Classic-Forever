@@ -7,3 +7,4 @@ License
 
 The original Minecraft Classic source code is Copyright (c) 2009-2012 Mojang AB.
 The MinecraftClassicForever source code is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.html).
+[![Run on Repl.it](https://repl.it/badge/github/ManiaDevelopment/Minecraft-Classic-Forever)](https://repl.it/github/ManiaDevelopment/Minecraft-Classic-Forever)
